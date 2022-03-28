@@ -1,1 +1,1 @@
-Vue Course
+Learn Vuejs 2022
